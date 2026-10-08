@@ -1,6 +1,4 @@
-Yes 👍 For **GitHub**, copy everything below into a file named **`README.md`**:
 
-```
 # 🐍 Python List, Dictionary, Set & Conditional Statements
 
 ## 📌 Project Overview
@@ -64,34 +62,33 @@ Python_List_Dictionary_Set_Conditional_Statements/
 ## ▶️ How to Run
 
 ### 1. Check Python
-```
+
 
 python --version
 
-```
+
 
 ### 2. Run the Program
-```
+
 
 python Python_List_Dictionary_Set_Conditional\_Statements.py
 
-```
+
 
 For macOS/Linux:
-```
+
 
 python3 Python_List_Dictionary_Set_Conditional\_Statements.py
 
-```
 
 ## 🖥️ Example Output
-```
+
 
 🎯 Enter your score (0 to 10): 7
 
 😊 Average: Good effort! Keep practicing, there's room for improvement. 💪
 
-```
+
 
 ## 🛠️ Requirements
 
@@ -109,4 +106,4 @@ This project provides practical experience with:
 - Conditional statements
 - User input and validation
 
-```
+
